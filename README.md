@@ -23,6 +23,6 @@ Dans le répertoire [python](python/), vous trouverez le script Python  :
 
 ## Rapport Power BI
 
-Le répertoire [power_bi](power_bi/), vous dtriuverez : 
+Dans le répertoire [power_bi](power_bi/), vous trouverez : 
 
 - [cluster_k-means.pbix](power_bi/cluster_k-means.pbix.pbix) : rapport Power BI reprenant l'exemple de clustering k-means de l'artile LinkedIn
