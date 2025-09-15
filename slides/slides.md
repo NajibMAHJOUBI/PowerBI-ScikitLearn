@@ -30,12 +30,6 @@ p { text-align: center; }
 
 ![bg left | 80%](../images/python_pbi.png)
 
-- Pandas
-- Matplotlib
-- Scikit-Learn
-
-
-
 ---
  
 ## Chargement des données dans Power BI
